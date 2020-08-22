@@ -1,0 +1,9 @@
+ls
+list
+cd ..
+list
+ls
+ping google.com
+continue 24
+exit
+quit

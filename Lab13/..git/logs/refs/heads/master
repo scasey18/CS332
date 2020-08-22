@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 fbb7214935f6c9f521cd6d66e62509f0afe2dac1 Samuel Casey <scasey18@uab.edu> 1575213703 -0600	commit (initial): Initial commit
+fbb7214935f6c9f521cd6d66e62509f0afe2dac1 5016646c5600caefe3f070f091dbd135a8fd264b Samuel Casey <scasey18@uab.edu> 1575248341 -0600	commit: Replaced mutex locks with sephamores
+5016646c5600caefe3f070f091dbd135a8fd264b 83e2626cf56d3c9d3cb6648c2ff9adfbcfd81241 Samuel Casey <scasey18@uab.edu> 1575256525 -0600	commit: Added sephamore destuction for cleanup

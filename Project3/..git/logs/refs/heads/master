@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 6b544abe781cbfe63e85136f0f50a0c8603313a7 Samuel Casey <scasey18@uab.edu> 1572372545 -0500	commit (initial): Initial Commit
+6b544abe781cbfe63e85136f0f50a0c8603313a7 d08010318c52fc6ccdc246e23c579357d0b2aaee Samuel Casey <scasey18@uab.edu> 1572635267 -0500	commit: Implemented IO Redirection in the shell '<' and '>'
+d08010318c52fc6ccdc246e23c579357d0b2aaee 1489821570731722726c003ede8a48a69c0b23d4 Samuel Casey <scasey18@uab.edu> 1573344176 -0600	commit: Added support for bonus oppurtunity
+1489821570731722726c003ede8a48a69c0b23d4 47e0089f2e8ca00674510ff38a8867ea297a9e30 Samuel Casey <scasey18@uab.edu> 1573345382 -0600	commit: Added support for signal catching
+47e0089f2e8ca00674510ff38a8867ea297a9e30 88c7384da9387eef1de2747635b51e622e68f339 Samuel Casey <scasey18@uab.edu> 1573345435 -0600	commit: Improved input parsing
+88c7384da9387eef1de2747635b51e622e68f339 523613725421056409178861bfafb50d6b8fc5b8 Samuel Casey <scasey18@uab.edu> 1573345483 -0600	commit: Made additions to the internal shell commands
+523613725421056409178861bfafb50d6b8fc5b8 9719d6cda2c46432d866273b1adae67d092d6d31 Samuel Casey <scasey18@uab.edu> 1573508473 -0600	commit: Made improvements for processes
+9719d6cda2c46432d866273b1adae67d092d6d31 ec81108434c4713944cb192aaa8fa5cd74beaca1 Samuel Casey <scasey18@uab.edu> 1573696273 -0600	commit: Add jobs support
+ec81108434c4713944cb192aaa8fa5cd74beaca1 13a4550b7567546b429e154b798164d2028bf556 Samuel Casey <scasey18@uab.edu> 1573705714 -0600	commit: Further fixes for jobs
+13a4550b7567546b429e154b798164d2028bf556 0b0e5a858f9e5789c5cffb086f3174d4871b4db1 Samuel Casey <scasey18@uab.edu> 1573710034 -0600	commit: General Improvements
+0b0e5a858f9e5789c5cffb086f3174d4871b4db1 5bd0ffc8f1e661725ea1c045e619bc4eba56f177 Samuel Casey <scasey18@uab.edu> 1573710788 -0600	commit: Updated README and added Images
+5bd0ffc8f1e661725ea1c045e619bc4eba56f177 95e22c083da026527a091fad02621f8ea5529bc8 Samuel Casey <scasey18@uab.edu> 1573711185 -0600	commit: Updated README

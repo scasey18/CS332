@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 ccf6db866bf03d68ebed7c5292c4f9ef3d38000c Samuel Casey <scasey18@uab.edu> 1569989643 -0500	commit (initial): Initial commit
+ccf6db866bf03d68ebed7c5292c4f9ef3d38000c 190924ec26b3dc08e413b7a7b48df010c250fe87 Samuel Casey <scasey18@uab.edu> 1570038446 -0500	commit: Implement the argument parser
+190924ec26b3dc08e413b7a7b48df010c250fe87 8ed189e6fbc1b94eaa711ef9a0e0a86fe32f1a13 Samuel Casey <scasey18@uab.edu> 1570121513 -0500	commit: Fixed the issue of unrecognized file types
+8ed189e6fbc1b94eaa711ef9a0e0a86fe32f1a13 ee64a1445e78928443aa11a60b170a52f9b6ec26 Samuel Casey <scasey18@uab.edu> 1570476481 -0500	commit: Working without function pointers
+ee64a1445e78928443aa11a60b170a52f9b6ec26 9783300ab0327cef5050f6d81d4fc70263f8d879 Samuel Casey <scasey18@uab.edu> 1570476594 -0500	commit: Include .h files for the makefile utility
+9783300ab0327cef5050f6d81d4fc70263f8d879 75328cafb1a568a2653da4861dcf115104507686 Samuel Casey <scasey18@uab.edu> 1570575263 -0500	commit: implemented function pointers for print functions
+75328cafb1a568a2653da4861dcf115104507686 7b4c2baf7a88e2a05052e30a22958dccfafb8aaa Samuel Casey <scasey18@uab.edu> 1570588409 -0500	commit: Implemented function pointers throughout the program
+7b4c2baf7a88e2a05052e30a22958dccfafb8aaa 2db787dcc08a7cff079dac0ab551097382c9e387 Samuel Casey <scasey18@uab.edu> 1570590692 -0500	commit: Overall improvements with comments
+2db787dcc08a7cff079dac0ab551097382c9e387 eb8729452964c53abea4031f4e11501584224655 Samuel Casey <scasey18@uab.edu> 1570594449 -0500	commit: Add more comments
+eb8729452964c53abea4031f4e11501584224655 fa77d0c35b2843f726a7193b21dcb53a50507b1a Samuel Casey <scasey18@uab.edu> 1570596511 -0500	commit: Further file checking and adding of README file
